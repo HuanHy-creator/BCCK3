@@ -11,3 +11,9 @@ class lop:
             if self.khoi:
                 if self.mon in i:
                     return f"Chào mừng ... dạy môn {self.mon}"
+                
+
+
+
+
+                
